@@ -1,4 +1,12 @@
 @import "tailwindcss";
+/* custom color */
+@theme {
+  --font-display: "Satoshi", "sans-serif";
+  --color-primary: #04821f;
+  --color-secondary: #1a1a1a;
+  /* ... */
+}
+/* shadcn theme color */
 @layer base {
   :root {
     --background: 0 0% 100%;
