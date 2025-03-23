@@ -1,9 +1,13 @@
+/* google inter font */
+@import url("https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&display=swap");
+/* tailwind css */
 @import "tailwindcss";
 /* custom color */
 @theme {
-  --font-display: "Satoshi", "sans-serif";
+  /* --font-display: "Satoshi", "sans-serif"; */
   --color-primary: #04821f;
   --color-secondary: #1a1a1a;
+  --font-inter: "Inter", sans-serif;
   /* ... */
 }
 /* shadcn theme color */

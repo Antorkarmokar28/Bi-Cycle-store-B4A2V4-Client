@@ -5,22 +5,22 @@ export const MenuItems = [
     link: "/",
   },
   {
-    id: 1,
+    id: 2,
     title: "Product",
     link: "#",
   },
   {
-    id: 1,
+    id: 3,
     title: "Product Details",
     link: "#",
   },
   {
-    id: 1,
+    id: 4,
     title: "About Us",
     link: "#",
   },
   {
-    id: 1,
+    id: 5,
     title: "Dashboard",
     link: "#",
   },
