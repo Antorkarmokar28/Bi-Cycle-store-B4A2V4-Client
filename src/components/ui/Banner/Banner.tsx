@@ -7,7 +7,7 @@ import { TypeAnimation } from "react-type-animation";
 const Banner = () => {
   return (
     <>
-      <div className="container mx-auto flex justify-between items-end py-10 px-4 md:px-8">
+      <div className="container mx-auto flex justify-between items-end py-10 px-4 md:px-8 bg-white">
         <div>
           <h2 className="text-3xl md:text-5xl text-secondary font-inter font-bold mb-6">
             The Ultimate Bi-Cycle Store
@@ -47,7 +47,7 @@ const Banner = () => {
               className="text-white text-1xl md:text-3xl font-inter font-bold"
               repeat={Infinity}
             />
-            <p className="mt-3 text-sm md:lg md:mt-6 text-white font-inter">
+            <p className="mt-3 text-sm md:lg md:mt-6 text-white font-inter leading-7">
               Discover the joy of cycling with top-quality bicycles designed for
               adventure, speed, and comfort. Whether you're commuting, racing,
               or exploring, we’ve got the perfect ride for you!" Let me know if
